@@ -1,1 +1,1 @@
-Run ts(this) all as one command (including the |) using git: git clone https://github.com/Hatboxforses/DS-Theme.git ~/Downloads/DS-Theme | git clone -b calendar https://github.com/Hatboxforses/DS-Theme.git ~/Downloads/DS-Theme/calendar
+Run this all as one command (including the |) using git: git clone https://github.com/Hatboxforses/DS-Theme.git ~/Downloads/DS-Theme | git clone -b calendar https://github.com/Hatboxforses/DS-Theme.git ~/Downloads/DS-Theme/calendar
